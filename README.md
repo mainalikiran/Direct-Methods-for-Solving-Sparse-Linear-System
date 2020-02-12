@@ -1,1 +1,2 @@
-# Lawrence-Berkeley-Internship-Project
+# Lawrence Berkeley National Lab (Internship-Project)
+
